@@ -1,0 +1,13 @@
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\bin\Debug\netcoreapp3.1\Day6Problems.exe
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\bin\Debug\netcoreapp3.1\Day6Problems.deps.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\bin\Debug\netcoreapp3.1\Day6Problems.runtimeconfig.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\bin\Debug\netcoreapp3.1\Day6Problems.runtimeconfig.dev.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\bin\Debug\netcoreapp3.1\Day6Problems.dll
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\bin\Debug\netcoreapp3.1\Day6Problems.pdb
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.csproj.AssemblyReference.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.AssemblyInfoInputs.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.AssemblyInfo.cs
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.csproj.CoreCompileInputs.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.dll
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.pdb
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day6Problems\Day6Problems\Day6Problems\obj\Debug\netcoreapp3.1\Day6Problems.genruntimeconfig.cache
